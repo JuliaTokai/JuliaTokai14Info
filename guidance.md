@@ -9,7 +9,7 @@ JuliaTokai \#14
 
 {%hackmd _6gkK4EVRrijGnUnS71_YA %}
 
-[![hackmd-github-sync-badge](https://hackmd.io/v8E8FCetTjC-l18FlCBH6g/badge)](https://hackmd.io/v8E8FCetTjC-l18FlCBH6g)
+[![hackmd-github-sync-badge](https://hackmd.io/wMliqdhfTtiPxdql83lSOg/badge)](https://hackmd.io/wMliqdhfTtiPxdql83lSOg)
 
 2023/03/26
 
