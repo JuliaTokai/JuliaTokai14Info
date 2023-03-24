@@ -59,6 +59,7 @@ Note:
 
 + antimon2: Julia の 書籍 を 執筆 した話
 + ほりたみゅ: Desmos.jlを作った話
++ tsumakoto: JuliaでAWS Lambda
 + 
 
 ---
